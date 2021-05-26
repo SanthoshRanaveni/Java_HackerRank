@@ -1,10 +1,5 @@
 import java.util.*;
-import java.io.*;
-import java.lang.*;
-
-
-
-class Solution{
+class Java_Datatypes{
     public static void main(String []argh)
     {
 
@@ -29,6 +24,7 @@ class Solution{
                 System.out.println(sc.next()+" can't be fitted anywhere.");
             }
 
+            sc.close();
         }
     }
 }
