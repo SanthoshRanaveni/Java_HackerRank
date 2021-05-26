@@ -1,3 +1,5 @@
+package HackerRank_Programs;
+
 //Problem Link https://www.hackerrank.com/challenges/java-stdin-stdout/problem
 import java.util.Scanner;
 public class Stdin_and_StdOut_2 {

@@ -1,3 +1,5 @@
+package HackerRank_Programs;
+
 //Program Link https://www.hackerrank.com/challenges/java-if-else/problem
 import java.util.*;
 public class If_Else {

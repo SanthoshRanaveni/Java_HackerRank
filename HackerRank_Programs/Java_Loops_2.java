@@ -1,3 +1,5 @@
+package HackerRank_Programs;
+
 //PROBLEM LINK https://www.hackerrank.com/challenges/java-loops/problem
 
 import java.util.*;

@@ -1,3 +1,5 @@
+package HackerRank_Programs;
+
 //Problem Link https://www.hackerrank.com/challenges/java-loops-i/problem
 import java.io.*;
 public class Java_Loops {

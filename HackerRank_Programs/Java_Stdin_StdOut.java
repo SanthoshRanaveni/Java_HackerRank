@@ -1,3 +1,5 @@
+package HackerRank_Programs;
+
 import java.util.*;
 public class Java_Stdin_StdOut {
     public static void main(String[] args) {

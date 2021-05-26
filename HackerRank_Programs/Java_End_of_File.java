@@ -1,3 +1,5 @@
+package HackerRank_Programs;
+
 //Problem Link https://www.hackerrank.com/challenges/java-end-of-file/problem
 import java.util.*;
 public class Java_End_of_File {

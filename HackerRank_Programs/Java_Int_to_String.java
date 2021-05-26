@@ -1,3 +1,5 @@
+package HackerRank_Programs;
+
 import java.util.*;
 import java.security.*;
 public class Java_Int_to_String {

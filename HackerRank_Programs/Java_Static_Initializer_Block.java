@@ -1,3 +1,5 @@
+package HackerRank_Programs;
+
 import java.util.Scanner;
 
 public class Java_Static_Initializer_Block {

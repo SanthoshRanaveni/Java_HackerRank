@@ -1,3 +1,5 @@
+package HackerRank_Programs;
+
 //Problem Link https://www.hackerrank.com/challenges/java-output-formatting/problem
 import java.util.Scanner;
 public class Output_Formatting {
