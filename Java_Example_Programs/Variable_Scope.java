@@ -13,5 +13,5 @@ public class Variable_Scope {
         System.out.println((obj1.y));
         System.out.println(obj2.x);
         System.out.println(obj2.y);
-    }
+    } 
 }
